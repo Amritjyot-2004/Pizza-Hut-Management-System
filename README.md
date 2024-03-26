@@ -1,2 +1,6 @@
-# Pizza-Hut-Management-System
-A billing software with an  interactive interface which takes user’s input and  saves the bill in a pdf file  by using  tkinter, fpdf and datetime  modules along with python fundamentals.
+# Pizza-Hut-Management-System-using-Python
+
+This is a project on Pizza Hut Management System made in python.
+Tkinter, fpdf and datetime modules are used in this program.
+Additional files contain bg.jpg, Bill.pdf and Example Window.jpg which are necessary for the main.py to run and execute.
+Place all files in python directory and you're good to go>
